@@ -37,4 +37,8 @@ or
 
 ### How to test
 ```hs
-  $ yarn test
+  $ yarn test  
+```
+
+### Demo Video
+https://www.loom.com/share/77ce91cc8b71479084c9b84e64aa0c5b
